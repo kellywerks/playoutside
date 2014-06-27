@@ -1,12 +1,14 @@
 == Play Outside
-=Author: Kelly Becker
-=Objective:  
+Author: Kelly Becker
+Objective:  
 Provide a site for families to find outdoor locations for children to run, play and get dirty
-=Areas to include:  trails, walks, parks, gardens, etc
+Areas to include:  trails, walks, parks, gardens, etc
 
 Tasks:
 
 * Create user authentication for users wishing to review (using Devise https://github.com/plataformatec/devise)
+* Limit user access to admin areas
+* Allow users to follow one another
 
 * Generate tags/categories for site reviews
 * Allow for image uploads
